@@ -5,4 +5,6 @@ Training for AI
 
 * Have fun
 * Take over the world
+* Hello world
+
 
